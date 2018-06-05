@@ -7,8 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <p className="App-intro">
-        Put on your discopants, something amazing is coming here!
+        Coming soon...
         </p>
+        <p className="App-intro">In the meantime visit us at <a style={{color:'white'}} href='https://tokencard.io'>tokencard.io</a></p>
       </div>
     );
   }
